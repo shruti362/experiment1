@@ -3,3 +3,4 @@ q=int(input("enter scenod value"))
 r=p+q
 print(r)
 print("changes done")
+print("changes done")
